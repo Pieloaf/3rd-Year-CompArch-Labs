@@ -1,0 +1,2 @@
+#define TIMEDLL_API __declspec(dllexport)
+#define TIMEDLL_API __declspec(dllimport)
